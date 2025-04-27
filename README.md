@@ -2,5 +2,4 @@
 
 API мобильного приложения для связи с БД.
 
-![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
